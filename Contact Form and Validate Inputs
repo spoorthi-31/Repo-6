@@ -1,0 +1,41 @@
+Contact Form with Client-Side Validation
+
+Overview
+
+This repository contains code for a contact form with client-side validation for name, email, and message. The form validates user input on submit and shows error messages if the input is invalid. If the input is valid, it shows a success message.
+
+Features
+
+- Client-side validation for name, email, and message
+- Error messages for invalid input
+- Success message on valid submission
+- Regular expression validation for email format
+
+Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+Files
+
+- index.html: HTML file for the contact form
+- style.css: CSS file for styling the form
+- script.js: JavaScript file for client-side validation
+
+Usage
+
+1. Clone the repository: git clone https://github.com/your-username/contact-form-validation.git
+2. Open index.html in a web browser to view the contact form
+3. Test the form by submitting valid and invalid input
+
+How it Works
+
+1. The form validates user input on submit using JavaScript
+2. If the input is invalid, error messages are shown below the input fields
+3. If the input is valid, a success message is shown
+
+Future Improvements
+
+- Server-side validation for added security
+- Integration with a backend service to send emails or store form data
